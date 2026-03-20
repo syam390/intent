@@ -1,0 +1,7 @@
+{
+  "name": "IntentBridge",
+  "description": "Analyze user intent from text, voice, or images using Gemini AI to provide structured insights and recommendations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
